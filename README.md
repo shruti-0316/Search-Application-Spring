@@ -1,5 +1,5 @@
 Project Name: Search Application.
-Description
+Description:
 This is project develeoped using spring framework. Here, if someone wants to search for specific keyword then it will redirect to google with given keyword.
 
 Redirects in Spring Framework
